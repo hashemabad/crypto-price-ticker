@@ -244,9 +244,9 @@ Technologist and researcher with a focus on blockchain, data science, and digita
 
 ### 🔗 Links
 - **Website**: [mohammadnasser.com](https://mohammadnasser.com)
-- **X (Twitter)**: [@naserhha](https://x.com/naserhha)
-- **LinkedIn**: [naserhha](https://linkedin.com/in/naserhha)
-- **GitHub**: [naserhha](https://github.com/naserhha)
+- **X (Twitter)**: [@hashemabad](https://x.com/hashemabad)
+- **LinkedIn**: [hashemabad](https://linkedin.com/in/hashemabad)
+- **GitHub**: [hashemabad](https://github.com/hashemabad)
 
 ## 📈 Changelog
 
